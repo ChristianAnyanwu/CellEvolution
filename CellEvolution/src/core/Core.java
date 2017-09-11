@@ -42,11 +42,11 @@ public class Core {
 	}
 
 	public void createGrid() {
-
+		
 	}
 
 	public void createCells() {
-
+		System.out.println("Creating Cells");
 	}
 
 }
